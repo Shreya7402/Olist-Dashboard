@@ -13,4 +13,4 @@ Developed an interactive Power BI dashboard using the Brazilian Olist E-commerce
 - Home decor and beauty categories had higher customer demand.
 - Customer concentration was highest in southeastern Brazil.
 # Dashboard
-- <a href=""> Dashboard</a>
+- <a href="https://github.com/Shreya7402/Olist-Dashboard/blob/main/Screenshot%20(238).png"> Dashboard</a>
